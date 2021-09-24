@@ -1,0 +1,2 @@
+Based on the data of 15 schools, Charter schools have higher average scores than District schools 
+Based on the data of the 39,170 students in those 15 schools, the only overall passing rate is 80.43%
