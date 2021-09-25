@@ -1,7 +1,7 @@
 # pandas-challenge
 This is a project where I utilized basic Pandas skills in order to analyze district-wide standardized test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend. My responsibility was to aggregate the data and showcase obvious trends in school performance.
-As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
-Your final report should include each of the following:
+As a first task, I was asked to analyze the district-wide standardized test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend. I had to aggregate the data to and showcase obvious trends in school performance.
+My final report includes each of the following:
 
 District Summary
 
